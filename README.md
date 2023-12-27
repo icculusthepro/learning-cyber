@@ -4,6 +4,8 @@ Until I set up a blog or professional website for myself I will be utilizing thi
 # Goals
 1. Develop more specialized knowledge on topics of cybersecurity. 
 2. Complete TryHackMe Rooms
+3. Learn the OWASP Top 10 in depth and utilize Kali and other tools to learn
+4. Complete portswigger tutorials (I have heard they are good)
 
 
 ## 12/26/2023
