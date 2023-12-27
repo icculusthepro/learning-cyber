@@ -17,7 +17,7 @@ Until I set up a blog or professional website for myself I will be utilizing thi
 2. Watched various Youtube videos about the MITRE Att&ck Framework.
 -  Although I posses knowledge of many of the topics of cybersecurity techniques and tactics at a high level the MITRE Att&ck framework is a valuable asset for mapping attacks post discovery or planning attacks I do not have an in depth knowledge of the framework itself and will attempt to learn it by performing simulated red team activities. Here is a good blog post I saw on reddit that explains how it can be used. https://blog.gravitywall.net/2022/06/16/incorporating-mitre-attck-in-your-security-operations/
 
-3. Began this course on Youtube - Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack!
+3. Began this course on Youtube - Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! - https://youtu.be/3FNYvj2U0HM?si=XFkE1IvdLGbKbl5t
 - I have started this before but never gotten very far.
 
 4. Downloaded my Office Apps to my main PC. Utilizing OneNote for centralized notetaking that I can access from anywhere. I regularly use two computers, my main system and my laptop. 
